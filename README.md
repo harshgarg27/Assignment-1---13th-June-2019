@@ -1,6 +1,7 @@
 # Assignment-1 13th-June-2019
 Solutions to Assignment 1 -13th June,2019 by Harsh Sagar Garg
-Solutions to Q1-Q3 in File
+* Solutions to Q1-Q3: Part-1
+* Solution to Q4: Part-2
 
 
 1. show data field code 'AR0005' values for 'Argentina-Catamarca' for entire duration
